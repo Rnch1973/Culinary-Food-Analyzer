@@ -1,0 +1,7 @@
+{
+  "name": "CulinaryAI - AI Food Analyzer & Recipe Generator",
+  "description": "Snap or upload a photo of any cooked dish to instantly identify it and get a complete, beginner-friendly recipe with nutritional insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
